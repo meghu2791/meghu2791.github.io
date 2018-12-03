@@ -21,4 +21,4 @@ Publications and Conferences
 
 Project Reports
 ================
-**Meghana Bhat**, Yogesh Chockalingam, Manjunath N S. ["A framework for error detection and correction using Deep Learning]([**here**](/deeprepair.pdf)){:target="_blank"} for class [CS839](https://thodrek.github.io/CS839_spring18/){:target="_blank"}
+**Meghana Bhat**, Yogesh Chockalingam, Manjunath N S. ["A framework for error detection and correction using Deep Learning"]([**here**](/deeprepair.pdf)){:target="_blank"} for class [CS839](https://thodrek.github.io/CS839_spring18/){:target="_blank"}
