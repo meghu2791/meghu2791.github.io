@@ -14,11 +14,11 @@ Previously, I did my summer internship with the [Snapdragon Neural Processor Eng
 
 Publications and Conferences
 =============================
-1. Zhixuan Zhou, Huankang Guan,  **Meghana Bhat** and Justin Hsu. ["Detecting Fake News with NLP: Challenges and Possible Directions"]**here**(/Fake_News_Detection.pdf){:target="_blank"} International Conference on Agents and Artificial Intelligence (ICAART) 2019 (position paper - under review).
+1. Zhixuan Zhou, Huankang Guan,  **Meghana Bhat** and Justin Hsu. ["Detecting Fake News with NLP: Challenges and Possible Directions"](https://github.com/meghu2791/meghu2791.github.io/Fake_News_Detection.pdf){:target="_blank"} International Conference on Agents and Artificial Intelligence (ICAART) 2019 (position paper - under review).
 2. Zhihan Guo, Theodoros Rekatsinas and **Meghana Bhat**. "Profiler: Approximate Functional Dependency discovery" (under submission).
 3. **Meghana Moorthy Bhat**, Josef Eckmueller, Melwyn Scudder. "Performance Optimization of Virtual Prototypes" DTTC Intel, Portland, Oregon, USA 2015. (DTTC is Intel global-wide internal conference)
 4. **Meghana Moorthy Bhat**, Melwyn Scudder, Kartik Shah. ["Virtual Prototype (VP) Quality Improvement Methodology"](https://dvcon-india.org/sites/dvcon-india.org/files/archive/2015/proceedings/132_VP_Quality_Improvement.pdf){:target="_blank"} DvCon India, Bangalore, India, 2015.
 
 Project Reports
 ================
-**Meghana Bhat**, Yogesh Chockalingam, Manjunath N S. ["A framework for error detection and correction using Deep Learning"]([**here**](/deeprepair.pdf)){:target="_blank"} for class [CS839](https://thodrek.github.io/CS839_spring18/){:target="_blank"}
+**Meghana Bhat**, Yogesh Chockalingam, Manjunath N S. ["A framework for error detection and correction using Deep Learning"](https://github.com/meghu2791/meghu2791.github.io/deeprepair.pdf)){:target="_blank"} for class [CS839](https://thodrek.github.io/CS839_spring18/){:target="_blank"}
