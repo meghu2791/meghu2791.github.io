@@ -18,3 +18,7 @@ Publications and Conferences
 2. Zhihan Guo, Theodoros Rekatsinas and **Meghana Bhat**. "Profiler: Approximate Functional Dependency discovery" (under submission).
 3. **Meghana Moorthy Bhat**, Josef Eckmueller, Melwyn Scudder. "Performance Optimization of Virtual Prototypes" DTTC Intel, Portland, Oregon, USA 2015. (DTTC is Intel global-wide internal conference)
 4. **Meghana Moorthy Bhat**, Melwyn Scudder, Kartik Shah. ["Virtual Prototype (VP) Quality Improvement Methodology"](https://dvcon-india.org/sites/dvcon-india.org/files/archive/2015/proceedings/132_VP_Quality_Improvement.pdf){:target="_blank"} DvCon India, Bangalore, India, 2015.
+
+Project Reports
+================
+**Meghana Bhat**, Yogesh Chockalingam, Manjunath N S. ["A framework for error detection and correction using Deep Learning]([**here**](/deeprepair.pdf)){:target="_blank"} for class [CS839](https://thodrek.github.io/CS839_spring18/){:target="_blank"}
