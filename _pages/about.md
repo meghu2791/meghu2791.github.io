@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Meghana, a second year masters student in [CS](https://www.cs.wisc.edu/){:target="_blank"} at [UW-Madison](https://www.wisc.edu/){:target="_blank"} and an incoming Ph.D student at [Ohio State University](https://www.osu.edu/){:target="_blank"}. At [UW-Madison](https://www.wisc.edu/){:target="_blank"} I was fortunate to be working with [Prof. Theodoros Rekatsinas](http://pages.cs.wisc.edu/~thodrek/){:target="_blank"} and [Prof. Justin Hsu](https://justinh.su/){:target="_blank"}. My research interests are in data mining, NLP and graphical models.
+Hello! I’m Meghana, an incoming Ph.D student at [Ohio State University](https://www.osu.edu/){:target="_blank"}. Currently, I a research intern at [MILA](https://mila.quebec/){:target="_blank"} under [Prof.Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/){:target="_blank"}. Previously, I graduated with masters at [UW-Madison](https://www.wisc.edu/){:target="_blank"}. My research interests are in data mining, NLP and graphical models.
 
-Previously, I did my summer internship with the [Snapdragon Neural Processor Engine](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk){:target="_blank"} team at [Qualcomm Research](https://www.qualcomm.com/){:target="_blank"} in San Diego, CA. Before that, I was a senior software engineer at [Intel](https://www.intel.com/content/www/us/en/homepage.html){:target="_blank"} in Bangalore, India. I did my undergrad in [CSE](https://sjce.ac.in/dept/cs/){:target="_blank"} at [SJCE](https://sjce.ac.in/){:target="_blank"}, India.
+I did my summer internship in 2018 with [Snapdragon Neural Processor Engine](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk){:target="_blank"} team at [Qualcomm Research](https://www.qualcomm.com/){:target="_blank"} in San Diego, CA. Before that, I was a senior software engineer at [Intel](https://www.intel.com/content/www/us/en/homepage.html){:target="_blank"} in Bangalore, India. I did my undergrad in [CSE](https://sjce.ac.in/dept/cs/){:target="_blank"} at [SJCE](https://sjce.ac.in/){:target="_blank"}, India.
 
 Publications and Conferences
 =============================
