@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Meghana Moorthy Bhat"
 title_separator          : "-"
 name                     : &name "Meghana Moorthy Bhat"
-description              : &description "Masters student at UW-Madison"
+description              : &description "Ph.D student @Ohio State University; research intern @Mila; masters @UW-Madison"
 url                      : https://meghu2791.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meghu2791/meghu2791.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Meghana Moorhty Bhat"
   avatar           : "IMG_0224.jpg"
-  bio              : "Masters student in CS at UW-Madison"
-  location         : "Madison, WI"
+  bio              : "Ph.D student @Ohio State University; research intern @Mila; masters @UW-Madison"
+  location         : "Columbus, OH"
   employer         :
   googlescholar    : 
-  email            : "mbhat2@wisc.edu"
+  email            : "meghanamoorthy@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
