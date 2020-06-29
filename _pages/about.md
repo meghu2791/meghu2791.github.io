@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Meghana, a Ph.D student at [Ohio State University](https://www.osu.edu/){:target="_blank"} supervised by [Prof.Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/){:target="_blank"}. Last summer, I was a research intern at [MILA](https://mila.quebec/){:target="_blank"} under [Prof.Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/){:target="_blank"}. Previously, I graduated with masters at [UW-Madison](https://www.wisc.edu/){:target="_blank"}. My research interests are in NLP, Information Retrieval and graphical models.
+Hello! I’m Meghana, a Ph.D student at [Ohio State University](https://www.osu.edu/){:target="_blank"} supervised by [Prof.Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/){:target="_blank"}. Last summer, I was a research intern at [MILA](https://mila.quebec/){:target="_blank"} under [Prof.Laurent Charlin](http://www.cs.toronto.edu/~lcharlin/){:target="_blank"}. Previously, I graduated with masters at [UW-Madison](https://www.wisc.edu/){:target="_blank"}. My research interests are broadly in language understanding and generation topics.
 
 News!
 =====
