@@ -12,8 +12,10 @@ Hello! I’m Meghana, a Ph.D student at [Ohio State University](https://www.osu.
 
 News!
 =====
-1. Our paper on Fake News detection has been accepted to WiML 2019 for a poster presentation.
-2. Our paper on data cleaning using deep learning has been accepted to MAIS 2019.
+1. Excited to begin my summer internship with MSR Redmond!
+2. Our paper on Fake News detection has been accepted to NeurIPS WiML Workshop 2019 for a poster presentation.
+3. Talk at UBC Data Science group on Fake News detection - challenges and future!
+4. Our paper on data cleaning using deep learning has been accepted to MAIS 2019.
 
 Publications and Conferences
 =============================
