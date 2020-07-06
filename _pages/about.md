@@ -12,10 +12,10 @@ Hello! I’m Meghana, a Ph.D student at [Ohio State University](https://www.osu.
 
 Recent News!
 ============
-**May 2020:** Excited to begin summer internship with MSR Redmond!
-**Dec 2019:** Our paper on Fake News detection has been accepted to NeurIPS WiML Workshop 2019 for a poster presentation.
-**Dec 2019:** Talk at UBC Data Science group on Fake News detection - challenges and future!
-**Aug 2019:** Our paper on data cleaning using deep learning has been accepted to MAIS 2019.
+1. **May 2020:** Excited to begin summer internship with MSR Redmond! 
+2. **Dec 2019:** Our paper on Fake News detection has been accepted to NeurIPS WiML Workshop 2019 for a poster presentation.
+3. **Dec 2019:** Talk at UBC Data Science group on Fake News detection - challenges and future!
+4. **Aug 2019:** Our paper on data cleaning using deep learning has been accepted to MAIS 2019.
 
 Publications and Conferences
 =============================
