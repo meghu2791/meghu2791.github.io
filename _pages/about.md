@@ -19,7 +19,7 @@ News!
 
 Publications and Conferences
 =============================
-1. **Meghana Moorthy Bhat**, Srinivasan Parthasarathy. ["Adversarial examples generation for Fake News classifiers"] (Under review - Title changed due to dpuble-blind submission policy)
+1. **Meghana Moorthy Bhat**, Srinivasan Parthasarathy. ["Adversarial examples generation for Fake News classifiers"] (Under review - Title changed due to double-blind submission policy)
 2. **Meghana Bhat** and Zhixuan Zhou, Huankang Guan, and Justin Hsu.["Detecting Fake News with NLP: Challenges and Possible Directions"](https://meghu2791.github.io/Fake_News_Detection.pdf){:target="_blank"} 
 NeurIPS Workshop 2019 (WiML).
 International Conference on Agents and Artificial Intelligence (ICAART) 2019. 
