@@ -10,8 +10,8 @@ redirect_from:
 
 Hello! I’m Meghana, a Ph.D student at [Ohio State University](https://www.osu.edu/){:target="_blank"}. Previously, I graduated with masters at [UW-Madison](https://www.wisc.edu/){:target="_blank"}. My research interests are broadly in language understanding and generation topics.
 
-News!
-=====
+Recent News!
+============
 1. Excited to begin my summer internship with MSR Redmond!
 2. Our paper on Fake News detection has been accepted to NeurIPS WiML Workshop 2019 for a poster presentation.
 3. Talk at UBC Data Science group on Fake News detection - challenges and future!
