@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Meghana, a Ph.D student at [Ohio State University](https://www.osu.edu/){:target="_blank"}. Previously, I graduated with masters at [UW-Madison](https://www.wisc.edu/){:target="_blank"}. My research interests are broadly in language understanding and generation topics.
+Hello! I’m Meghana, a graduate student at [Ohio State University](https://www.osu.edu/){:target="_blank"}. My research interests are broadly in language understanding and generation topics.
 
 Recent News!
 ============
